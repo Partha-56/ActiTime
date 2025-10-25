@@ -7,5 +7,6 @@ public class TC_2 {
 	@Test
 	public void demo() {
 		Reporter.log("partha", true);
+		Reporter.log("abhishek", true);
 	}
 }
